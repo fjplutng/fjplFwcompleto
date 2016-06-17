@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">fjplFw</string>
+    <string name="txv1v">MUESTREO DE POBLACIONES</string>
+    <string name="txv2v">Tipo de Población</string>
+    <string name="txv2ve">Los estados resaltados presentan una muestra de poblaciones ESCASAS de</string>
+    <string name="txv2vm">Los estados resaltados presentan una muestra de poblaciones MODERADAS de</string>
+    <string name="txv2vg">Los estados resaltados presentan una muestra de poblaciones GRANDES de</string>
+    <string name="txv2vs">Los estados resaltados presentan una muestra de poblaciones SOBREPOBLADAS de</string>
+    <string name="txv2vc">estados</string>
+
+    <string name="btn1v">ESCASA 50–200 x cada 1000hectáreas</string>
+    <string name="btn2v">MODERADA 201–5000 x cada 1000hectáreas</string>
+    <string name="btn3v">GRANDE 5001–50000 x cada 1000hectáreas</string>
+    <string name="btn4v">SOBRE POBLACIÓN 50001–100000 x cada 1000hectáreas</string>
+    <string name="btn5v">reset</string>
+    <string name="txtT1">LAS POBLACIONES ESCASAS SE ENCUENTRAN NORMALMENTE MUY AL NORTE O MUY AL SUR DE NUESTRO PAÍS, ASÍ COMO EN LAS CIMAS DE LAS CORDILLERAS.</string>
+    <string name="txtT2">POBLACIONES MODERADAS LAS ENCONTRAMOS PRINCIPALMENTE AL NORESTE, NOROESTE, SURESTE Y SUROESTE DE NUESTRO PAÍS</string>
+    <string name="txtT3">GRANDES POBLACIONES LAS ENCONTRAMOS PRINCIPALMENTE AL SUR DEL PAÍS Y EN ALGUNOS ESTADOS DEL NORTE</string>
+    <string name="txtT4">REGIONES SOBREPOBLADAS ENCONTRAMOS PRINCIPALMENTE EN EL CENTRO DEL PAÍS Y EN EL ESTADO DE NUEVO LEÓN</string>
+    <string name="txtT5">EN MÉXICO EXISTEN 4 PRINCIPALES TIPOS DE POBLACIÓN</string>
+</resources>
